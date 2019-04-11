@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-minikube/storage-provisioner:v1.8.1
+FROM gcr.io/google-containers/git-sync-amd64:v2.0.5
